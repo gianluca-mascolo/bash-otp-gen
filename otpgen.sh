@@ -2,6 +2,9 @@
 
 # Do you like it? Follow my telegram channel: http://t.me/linuxcheatsheet
 
+# Author: Gianluca Mascolo
+# Mailto: gianluca _at_ gurutech _dot_ it
+
 #    GPLv3 or Later
 #
 #    This program is free software: you can redistribute it and/or modify
