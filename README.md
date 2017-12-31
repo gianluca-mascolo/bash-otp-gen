@@ -6,6 +6,7 @@ It works using jq (to parse json configuration file) and oathtool (one-time pass
 Just run it with the example file to check how it works.
 ## How to generate your codes
 To use it with your codes, when you are asked to scan a QR code for your security device, look for the detailed view (usually a little arrow) in the website you are using, and copy/paste the generator string in the json configuration file.  
-You can place the json configuration file anywhere, just reference it at the start of the script
+You can place the json configuration file anywhere, just reference it at the start of the script  
+Be sure that your computer is synchronized with an NTP server and have the right date/time, otherwise you will get wrong codes!
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/20320073/34462629-59664ed6-ee48-11e7-8ece-43d8dbf1ccbc.png)
