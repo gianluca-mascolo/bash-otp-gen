@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Do you like it? Follow my telegram channel: http://t.me/linuxcheatsheet
-
 # Author: Gianluca Mascolo
 # Mailto: gianluca _at_ gurutech _dot_ it
 
